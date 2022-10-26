@@ -1,3 +1,6 @@
+
+//FUNÇOES DE EXCLUSAO LINHA 68-109
+
 #include <stdio.h>
 #include <stdlib.h>
 
